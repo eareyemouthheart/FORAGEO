@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/activity_detail.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/activity_location.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/activity_login.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/activity_main.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/activity_registration.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/activity_welcome.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/app_bar_main.xml" value="0.32314814814814813" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/detail_item.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/favourite_fragment.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/featured_hor_item.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/featured_ver_item.xml" value="0.4734375" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/fragment_first.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/fragment_history_second.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/fragment_home.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/fragment_second.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/fragment_thrid.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/home_horizontal_item.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/home_vertical_item.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/layout/nav_header_main.xml" value="0.4328125" />
+        <entry key="..\:/program/IT_solution_huacongYin/IT_solution_huacongYin/Solution/FORAGEO/FORAGEO/app/src/main/res/menu/activity_main_drawer.xml" value="0.4328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
